@@ -1,5 +1,5 @@
 # Print a simple greeting
-print("Hello, World12!")
+print("Hello, World123!")
 
 # Capture user input and format the string
 user_name = input("What is your name? ")
